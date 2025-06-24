@@ -65,3 +65,19 @@ Install the dependencies using pip:
 
 ```bash
 pip install numpy opencv-python tensorflow pillow
+```
+
+
+## ▶️ How to Run
+
+Ensure your webcam is connected and functional.
+
+Run the main script:
+
+Copy
+Edit
+
+```bash
+python main.py
+```
+Press q to exit the live video feed.
