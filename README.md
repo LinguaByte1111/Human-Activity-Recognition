@@ -11,7 +11,7 @@ This project implements a **real-time Human Activity Recognition system** using 
 - [🔍 Model Details](#-model-details)
 - [🚀 How It Works](#-how-it-works)
 - [📦 Requirements](#-requirements)
-- [▶️ How to Run](#️-how-to-run)
+- [▶️ How to Run](#️-how-to-run) 
 - [🧪 Sample Output](#-sample-output)
 - [📌 Notes](#-notes)
 - [🧰 Utility Function: Max Subsequence](#-utility-function-max-subsequence)
