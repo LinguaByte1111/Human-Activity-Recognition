@@ -77,6 +77,7 @@ Run the main script:
 Copy
 Edit
 
+
 ```bash
 python main.py
 ```
