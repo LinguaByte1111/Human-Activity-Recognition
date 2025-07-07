@@ -1,5 +1,4 @@
 
-
 # 🧍 Human Activity Recognition (HAR) using Live Video and Deep Learning
 
 This project implements a **real-time Human Activity Recognition system** using a pre-trained deep learning model built with TensorFlow/Keras. The system captures live video from a webcam and classifies human actions such as walking, sitting, standing, and more.
